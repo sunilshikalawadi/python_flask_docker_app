@@ -8,7 +8,7 @@ appService = AppService();
 
 @app.route('/')
 def home():
-    return "App Works!!!"
+    return "Jai akshya maharaj!!!"
 
 
 @app.route('/api/tasks')
